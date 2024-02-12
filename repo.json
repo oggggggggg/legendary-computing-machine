@@ -1,0 +1,22 @@
+{
+  "name": "SamHub App Library",
+  "identifier": "com.samhub.apps",
+  "subtitle": "Made, managed and customized by jay",
+  "iconURL": "https://gofile.io/d/6Tfgs4",
+  "website": "https://tinyurl.com/samhubappnew",
+  "apps": [
+    {
+      "name": "Megabyte Mart",
+      "bundleIdentifier": "com.megabyte.mart",
+      "developerName": "TapLand, Inc.",
+      "version": 1,
+      "versionDate": "2024-02-12",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Flightradar24_9.17.0.ipa",
+      "localizedDescription": null,
+      "iconURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEUAAAD///+goKD39/ejo6Oqqqq0tLT6+vq+vr4NDQ3Ly8snJyc9PT3f39+np6f5+fl2dnbn5+fY2NiXl5fExMSQkJBtbW1jY2NRUVEtLS1+fn7t7e3Pz8+zs7OGhoZycnJYWFhJSUkgICAXFxdFRUU3NzeeNHodAAAD6ElEQVR4nO3d63KiQBCGYUYkIBFBRUDwGNf7v8Ud1BgFNB6Y6nxNv/7dWvspREYJYqlXciuFlez3O/9f18/0/KzWb/8gDLxZnkdRlKRpmmXZdqibfx76GpyyDHZ6it3xKff62bd6jDRNoiif+uM3hbaXzk1O30LDyCteFbpeSj3+g2VL+wVhsKKe+6ny4Emhj7L5fkomTwgDPF9Z1PhabRCGWK/Py5YPCSd//d3zXll9d6wJl9RDvpn3m3BGPeHbTe8LI+r5Wmjt3hbaCfV0rbSxbwoxDxL10ltCHluwLGkW4h4G6+VNwh71VK02rQt96plablEVFkY/xRI0DyvCDfVErZdfCz3qeQwUXwpd5NX2rU6v06NwRD2NkXo/wpDjJrSsXXEWctwLy3pnYUY9iqEG38KAehJjeSdhTj2IsbKTkNty5qLxQchtRXrZ6CDk9KmpWlYK3T31GAYbFFrI9520bKGFDvUQRptpId9jRVmihVwXNMeGynIZHw3LQv3gna0fvBMhfmOroB7BcIE28m7SASHvZalemGoj73wRwudbnL/DKPNECF8XhFzPWXz3IUL4RIifCPH70A/eORb6Xz3/ltOBbShC9ESIXxeEvE8BW9aIvbAvQvhEiJ8I8RMhfiLEr2/xvJjkp5428k6E+IkQPxHiJ0L8RIhfF4S8fg6jngjxEyF+IsRPhPiJED8R4idC/ESInwjxEyF+IsRPhPiJED8R4idC/ESInwjxEyF+IsRPhPh1Qcj/r75EiJ4I8RMhfiLET4T4dUHI/ypZ/lc6ixA9EeInQvxEiJ8I8euz/w3aUQd+GVKE6IkQvy4IuR8tHPa/q79kL+zCvRFEiJ4I8VtaMfUIhvvowF3JRIheF4T879IpQvT8DtzxmP9dq/kL+d893qYewXAFe6HdAWFIPYLhbMv9op7BbKGlNsQjmG2rLJVTD2G0SAt5n+Z2tJD3wjTQwnBOPYXB5qEWqoR6DIOtVSnk/H1ifBAyXtUM3INQrakHMVakjkK+X2RMTkL1j3oSQ23Vt5Dr2Zn4LHSH1LMY6bAJj0KmGzG+EKqMehoDJepSyHFxWlwJFb8LvPrqWqg21BO13FZVheMd9UyttgtqQmbvp76qC1l92HdUk1BNqedqrZVqFqoV9WQtlatbQibfu63UbaHicFXwVN0TqnhAPeC7Oeq+UE321CO+1X5RBdWEykV+v4ncmqcu1JtxSz3oi33GDZomoV6HQ+6NM7vJ0ixUBd7RPx83U24I9e7oIL3l7KaN2++uUDeZYSC/1k373yNCXTBK/vg54s1scXPzPSLUuYXvjPq9v1d/5MRF/ehQ7T/aOiUElLnjFQAAAABJRU5ErkJggg==",
+      "screenshotURLs": [
+        ""
+      ]
+    }
+  ]
+}
