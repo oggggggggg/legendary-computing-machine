@@ -1,0 +1,31 @@
+{
+    "name": "CyPwn IPA Library",
+    "identifier": "xyz.cypwn.ipalibrary",
+    "subtitle": "CyPwn's Exclusive IPA Library",
+    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
+    "website": "https:\/\/ipa.cypwn.xyz",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+    "paypal": {
+        "email": "none"
+    },
+    "apps": [
+        {
+            "name": "YouTubeKillerPlusISB_19.06.2",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTubeKillerPlusISB_19.06.2 x CyPwn",
+            "version": "19.06.2",
+            "versionDate": "2024-02-11",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/YouTubeKillerPlusISB_19.06.2.ipa",
+            "localizedDescription": "YTKillerPlus + iSponsorBlock",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouTubeKillerPlusISB_19.06.2.png",
+            "tintColor": "FFC300",
+            "size": 118489088,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/YouTubeKillerPlusISB_19.06.2\/YouTubeKillerPlusISB_19.06.2-2.png"
+            ]
+        }
+    ]
+}
