@@ -1,0 +1,27 @@
+{
+    "name": "SamHub",
+    "identifier": "com.samhub.apps",
+    "subtitle": "SamHub's Exclusive IPA Library",
+    "iconURL": "https:\/\/small.fileditchstuff.me\/s4\/DmayQHOOvecotqDxLccp.png",
+    "website": "https:\/\/tinyurl.com\/samhubappnew",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+    "paypal": {
+        "email": "soon"
+    },
+    "apps": [
+        {
+            "name": "Hacked: Brawl Stars",
+            "developerName": "Brawl Stars x SamHub",
+            "version": "53.176",
+            "versionDate": "2024-02-13",
+            "downloadURL": "https:\/\/small.fileditchstuff.me\/s4\/rxgwsMObkJSiuUWuhMa.ipa",
+            "localizedDescription": "All Brawls, All Skins, All Emotes, Upgrade All, Private Server. Made by Nulls and promoted by KamoHacks",
+            "iconURL": "https:\/\/small.fileditchstuff.me\/s4\/gzDejmYLVJOUsmyfWux.png",
+            "tintColor": "FFC300",
+            "size": 72351744
+        }
+    ]
+}
